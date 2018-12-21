@@ -1,4 +1,4 @@
 # Flappy Bird
-This is a Flappy Bird browser copy made with Phaser JS.
+This is a browser copy of the Flappy Bird game made with the Phaser JS.
 ## Play
 https://makstresh.github.io/flappy-bird/
